@@ -1,5 +1,5 @@
 # ScrollSense Assignment 1 - Run Manual
-##unzip the file
+## unzip the file
 ## A. One-command verification
 
 Open a terminal in the submission directory and run:
